@@ -1,2 +1,2 @@
 # language_test
-Py autotests for different languages
+Py autotests for es language, in Chrome & Firefox browsers
